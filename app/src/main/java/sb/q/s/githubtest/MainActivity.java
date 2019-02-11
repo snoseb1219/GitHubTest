@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         getSupportActionBar().setTitle("Nice");
+        
+        //GitHub에서 데이터가 변경...
     }
 }
